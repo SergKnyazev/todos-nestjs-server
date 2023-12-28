@@ -1,0 +1,11 @@
+PORT=5000
+POSTGRES_HOST=db.uwmduitdkoievpnlfdhl.supabase.co
+POSTGRES_DATABASE=postgres
+POSTGRES_USERNAME=postgres
+POSTGRES_PASSWORD=Espover@7+78
+POSTGRES_PORT=6543
+DIALECT=postgres
+SECRET_KEY=Allltu679++
+
+
+1. Настроить TypeOrm, смотреть документацию, 2 вида настройки
